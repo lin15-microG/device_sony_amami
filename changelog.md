@@ -1,3 +1,12 @@
+August 11th, 2019
+
+- ASB Security string 2019-08-05
+- OTA Support
+- Standard flavor: System Webview on 76.0.3809.89
+- microG flavor: Bromite Webview on 76.0.3809.100
+- microG flavor: Aurorastore 3.0.9 with AuroraServices install method
+
+
 July 5th, 2019
 
 -  ASB Security string 2019-07-05

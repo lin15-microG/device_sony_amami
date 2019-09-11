@@ -1,3 +1,10 @@
+September 10th, 2019
+
+- ASB Security string 2019-09-05
+- Standard flavor: System Webview on 76.0.3809.111
+- microG flavor: AuroraServices updated to 1.0.4
+
+
 August 11th, 2019
 
 - ASB Security string 2019-08-05

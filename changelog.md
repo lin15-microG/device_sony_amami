@@ -1,3 +1,12 @@
+February 9th, 2020
+
+- ASB Security string 2020-02-05
+- Replaced DRM lib (fixes issues with Netflix)
+- Standard flavor: System Webview on 79.0.3945.136
+- microG flavor: Bromite Webview on 79.0.3945.139
+- microG flavor: Updated AuroraStore to 3.1.8
+
+
 January 14th, 2020
 
 - ASB Security string 2020-01-05
